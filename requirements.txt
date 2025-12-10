@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 streamlit
 opencv-python-headless
 tensorflow
 numpy
 matplotlib
+=======
+streamlit
+opencv-python-headless
+tensorflow
+numpy
+matplotlib
+>>>>>>> 10e3b292a254f368b8142b4a0fe46ffec5d0500f
